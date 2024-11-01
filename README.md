@@ -78,8 +78,10 @@ The project is organized into stages, from understanding TypeScript fundamentals
 
 Here are some resources I will use along the way. This list will expand as I find new materials:
 - **JavaScript Essentials**: [javascript.info](https://javascript.info)
+- **JavaScript Reference**: [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- **JavaScript Compatibility**: [caniuse.com](https://caniuse.com/)
 - **TypeScript Documentation**: [typescriptlang.org](https://www.typescriptlang.org/)
-- **TypeScript Deep Dive** by Basarat Ali Syed
+- **TypeScript Deep Dive** by Basarat Ali Syed [basarat.gitbook.io](https://basarat.gitbook.io/typescript)
 - **Node.js Documentation**: [nodejs.org](https://nodejs.org/)
 - **Express Documentation**: [expressjs.com](https://expressjs.com/)
 - **Ethers.js Documentation**: [docs.ethers.io](https://docs.ethers.io/)
