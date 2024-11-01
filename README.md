@@ -11,13 +11,13 @@ Welcome to my TypeScript Learning Path! This repository is designed to guide me 
 - [Progress Tracking](#progress-tracking)
 
 ## Overview
+[Back to Table of Contents](#table-of-contents)
 
 TypeScript has quickly become a valuable language in web development, especially for those looking to build robust, maintainable, and scalable applications. This repository aims to provide a roadmap to help me (and anyone following along) become proficient in TypeScript, with an emphasis on backend development and Web3 applications.
 
 The project is organized into stages, from understanding TypeScript fundamentals to applying it within Node.js and Express environments, moving on to Web3 and blockchain development, and finally implementing real-world projects. Each stage includes relevant learning materials, tasks, and reflections to track progress.
 
 ## Goals
-
 [Back to Table of Contents](#table-of-contents)
 
 - **Gain Proficiency**: Build a strong understanding of TypeScript syntax, types, interfaces, and advanced features.
@@ -27,6 +27,7 @@ The project is organized into stages, from understanding TypeScript fundamentals
 - **Build Real-World Applications**: Complete a series of projects to solidify my learning and build a TypeScript portfolio.
 
 ## Learning Path
+[Back to Table of Contents](#table-of-contents)
 
 ### Stage 1: TypeScript Basics
    - **Key Topics**: Type annotations, interfaces, enums, unions, intersections, and configuration.
@@ -59,6 +60,7 @@ The project is organized into stages, from understanding TypeScript fundamentals
    - **Outcome**: Apply all knowledge gained to build and deploy full applications, with real-world use cases in both traditional backend and Web3 contexts.
 
 ## Project Structure
+[Back to Table of Contents](#table-of-contents)
 
 - **/docs**: Documentation, notes, and resources for each stage.
 - **/src**: Code files organized by project or milestone.
@@ -68,6 +70,7 @@ The project is organized into stages, from understanding TypeScript fundamentals
 - **Project Board**: A GitHub Project Board to track tasks, stages, and milestones.
 
 ## Resources
+[Back to Table of Contents](#table-of-contents)
 
 Here are some resources I will use along the way. This list will expand as I find new materials:
 - **TypeScript Documentation**: [typescriptlang.org](https://www.typescriptlang.org/)
@@ -79,6 +82,7 @@ Here are some resources I will use along the way. This list will expand as I fin
 - **Web3.js Documentation**: [web3js.readthedocs.io](https://web3js.readthedocs.io/)
 
 ## Progress Tracking
+[Back to Table of Contents](#table-of-contents)
 
 Progress will be tracked through the GitHub Project Board in this repository. Each stage will have tasks created as GitHub Issues, with links to resources, examples, and exercises. Reflection notes will be added to document insights, challenges, and areas for further learning.
 
