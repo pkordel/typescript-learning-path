@@ -18,6 +18,8 @@ The project is organized into stages, from understanding TypeScript fundamentals
 
 ## Goals
 
+[Back to Table of Contents](#table-of-contents)
+
 - **Gain Proficiency**: Build a strong understanding of TypeScript syntax, types, interfaces, and advanced features.
 - **Backend Development**: Develop practical skills for applying TypeScript in backend development with Node.js and Express.
 - **Web3 and Blockchain**: Learn to use TypeScript in the context of Web3 and blockchain development, with Solidity and smart contracts.
