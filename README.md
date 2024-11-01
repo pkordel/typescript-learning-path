@@ -89,8 +89,6 @@ Here are some resources I will use along the way. This list will expand as I fin
 ## Progress Tracking
 [Back to Table of Contents](#table-of-contents)
 
-Progress will be tracked through the GitHub Project Board in this repository. Each stage will have tasks created as GitHub Issues, with links to resources, examples, and exercises. Reflection notes will be added to document insights, challenges, and areas for further learning.
-
----
+Progress will be tracked through the [GitHub Project Board](https://github.com/users/pkordel/projects/3/views/1) in this repository. Each stage will have tasks created as GitHub Issues, with links to resources, examples, and exercises. Reflection notes will be added to document insights, challenges, and areas for further learning.
 
 This README will evolve as I progress through the learning path. Feel free to follow along, contribute, or fork this project if you’re on a similar journey. Happy coding!
