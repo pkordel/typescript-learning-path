@@ -29,6 +29,10 @@ The project is organized into stages, from understanding TypeScript fundamentals
 ## Learning Path
 [Back to Table of Contents](#table-of-contents)
 
+### Stage 0: JavaScript Basics
+   - **Review Core Concepts**: Brush up on modern JavaScript (ES6+), focusing on asynchronous programming (Promises, async/await), arrow functions, destructuring, and modules.
+   - **Outcome**: Understand and use JavaScript’s core syntax and configurations.
+
 ### Stage 1: TypeScript Basics
    - **Key Topics**: Type annotations, interfaces, enums, unions, intersections, and configuration.
    - **Outcome**: Understand and use TypeScript’s core syntax and configurations.
@@ -73,6 +77,7 @@ The project is organized into stages, from understanding TypeScript fundamentals
 [Back to Table of Contents](#table-of-contents)
 
 Here are some resources I will use along the way. This list will expand as I find new materials:
+- **JavaScript Essentials**: [javascript.info](https://javascript.info)
 - **TypeScript Documentation**: [typescriptlang.org](https://www.typescriptlang.org/)
 - **TypeScript Deep Dive** by Basarat Ali Syed
 - **Node.js Documentation**: [nodejs.org](https://nodejs.org/)
